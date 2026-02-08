@@ -1,4 +1,4 @@
-package tabuleiro;
+package tabuleirogame;
 
 import java.util.Objects;
 
